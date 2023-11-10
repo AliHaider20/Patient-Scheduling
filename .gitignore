@@ -15,4 +15,3 @@ patient_scheduling_rl_dataset_dummy.csv
 RL.py
 Solving unbounded state space problem using RL.pptx
 Steps for the PDGRL algorithm.docx
-Pytorch_DQL_tutorial.ipynb
